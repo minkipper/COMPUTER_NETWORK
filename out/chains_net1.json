@@ -1,0 +1,294 @@
+{
+  "www.microsoft.com": {
+    "cname_chain": [
+      "www.microsoft.com",
+      "www.microsoft.com-c-3.edgekey.net",
+      "e13678.dscb.akamaiedge.net"
+    ],
+    "resolvers": {
+      "system": [
+        "23.49.206.40"
+      ],
+      "google": [
+        "23.49.206.40"
+      ],
+      "quad9": [
+        "184.28.10.89"
+      ]
+    },
+    "final_zone": "akamaiedge.net",
+    "chain_length": 2,
+    "third_party": true
+  },
+  "www.netflix.com": {
+    "cname_chain": [
+      "www.netflix.com",
+      "www.prod.ftl.netflix.com"
+    ],
+    "resolvers": {
+      "system": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ],
+      "google": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ],
+      "quad9": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ]
+    },
+    "final_zone": "netflix.com",
+    "chain_length": 1,
+    "third_party": false
+  },
+  "www.adobe.com": {
+    "cname_chain": [
+      "www.adobe.com",
+      "www.adobe.com.edgesuite.net",
+      "a1319.dscr.akamai.net"
+    ],
+    "resolvers": {
+      "system": [
+        "203.251.234.26",
+        "203.251.234.41"
+      ],
+      "google": [
+        "23.32.4.105",
+        "23.32.4.121",
+        "23.32.4.32",
+        "23.32.4.33",
+        "23.32.4.72",
+        "23.32.4.74",
+        "23.32.4.88",
+        "23.32.4.9"
+      ],
+      "quad9": [
+        "23.208.31.133",
+        "23.208.31.135",
+        "23.208.31.148",
+        "23.208.31.161",
+        "23.208.31.163",
+        "23.208.31.173",
+        "23.208.31.185",
+        "23.208.31.188",
+        "23.208.31.191"
+      ]
+    },
+    "final_zone": "akamai.net",
+    "chain_length": 2,
+    "third_party": true
+  },
+  "www.cnn.com": {
+    "cname_chain": [
+      "www.cnn.com",
+      "cnn-tls.map.fastly.net"
+    ],
+    "resolvers": {
+      "system": [
+        "146.75.51.5"
+      ],
+      "google": [
+        "151.101.131.5",
+        "151.101.195.5",
+        "151.101.3.5",
+        "151.101.67.5"
+      ],
+      "quad9": [
+        "151.101.131.5",
+        "151.101.195.5",
+        "151.101.3.5",
+        "151.101.67.5"
+      ]
+    },
+    "final_zone": "fastly.net",
+    "chain_length": 1,
+    "third_party": true
+  },
+  "www.apple.com": {
+    "cname_chain": [
+      "www.apple.com",
+      "www-apple-com.v.aaplimg.com",
+      "www.apple.com.edgekey.net",
+      "e6858.dsce9.akamaiedge.net"
+    ],
+    "resolvers": {
+      "system": [
+        "23.49.205.28"
+      ],
+      "google": [
+        "23.49.205.28"
+      ],
+      "quad9": [
+        "184.31.228.249"
+      ]
+    },
+    "final_zone": "akamaiedge.net",
+    "chain_length": 3,
+    "third_party": true
+  },
+  "www.korea.ac.kr": {
+    "cname_chain": [
+      "www.korea.ac.kr"
+    ],
+    "resolvers": {
+      "system": [
+        "163.152.6.10"
+      ],
+      "google": [
+        "163.152.6.10"
+      ],
+      "quad9": [
+        "163.152.6.10"
+      ]
+    },
+    "final_zone": "korea.ac.kr",
+    "chain_length": 0,
+    "third_party": false
+  },
+  "www.stanford.edu": {
+    "cname_chain": [
+      "www.stanford.edu",
+      "stanford.netlifyglobalcdn.com"
+    ],
+    "resolvers": {
+      "system": [
+        "15.197.167.90",
+        "3.33.186.135"
+      ],
+      "google": [
+        "15.197.167.90",
+        "3.33.186.135"
+      ],
+      "quad9": [
+        "15.197.167.90",
+        "3.33.186.135"
+      ]
+    },
+    "final_zone": "netlifyglobalcdn.com",
+    "chain_length": 1,
+    "third_party": true
+  },
+  "www.bbc.co.uk": {
+    "cname_chain": [
+      "www.bbc.co.uk",
+      "www.bbc.co.uk.pri.bbc.co.uk",
+      "bbc.map.fastly.net"
+    ],
+    "resolvers": {
+      "system": [
+        "146.75.48.81"
+      ],
+      "google": [
+        "151.101.0.81",
+        "151.101.128.81",
+        "151.101.192.81",
+        "151.101.64.81"
+      ],
+      "quad9": [
+        "151.101.0.81",
+        "151.101.128.81",
+        "151.101.192.81",
+        "151.101.64.81"
+      ]
+    },
+    "final_zone": "fastly.net",
+    "chain_length": 2,
+    "third_party": true
+  },
+  "www.spotify.com": {
+    "cname_chain": [
+      "www.spotify.com",
+      "atc.spotify.map.fastly.net"
+    ],
+    "resolvers": {
+      "system": [
+        "146.75.51.42"
+      ],
+      "google": [
+        "151.101.131.42",
+        "151.101.195.42",
+        "151.101.3.42",
+        "151.101.67.42"
+      ],
+      "quad9": [
+        "151.101.131.42",
+        "151.101.195.42",
+        "151.101.3.42",
+        "151.101.67.42"
+      ]
+    },
+    "final_zone": "fastly.net",
+    "chain_length": 1,
+    "third_party": true
+  },
+  "www.github.com": {
+    "cname_chain": [
+      "www.github.com",
+      "github.com"
+    ],
+    "resolvers": {
+      "system": [
+        "20.200.245.247"
+      ],
+      "google": [
+        "20.200.245.247"
+      ],
+      "quad9": [
+        "20.27.177.113"
+      ]
+    },
+    "final_zone": "github.com",
+    "chain_length": 1,
+    "third_party": false
+  },
+  "www.wikipedia.org": {
+    "cname_chain": [
+      "www.wikipedia.org",
+      "dyna.wikimedia.org"
+    ],
+    "resolvers": {
+      "system": [
+        "103.102.166.224"
+      ],
+      "google": [
+        "103.102.166.224"
+      ],
+      "quad9": [
+        "103.102.166.224"
+      ]
+    },
+    "final_zone": "wikimedia.org",
+    "chain_length": 1,
+    "third_party": true
+  },
+  "www.nytimes.com": {
+    "cname_chain": [
+      "www.nytimes.com",
+      "www.prd.map.nytimes.com",
+      "www.prd.map.nytimes.xovr.nyt.net",
+      "nytimes.map.fastly.net"
+    ],
+    "resolvers": {
+      "system": [
+        "146.75.49.164"
+      ],
+      "google": [
+        "151.101.1.164",
+        "151.101.129.164",
+        "151.101.193.164",
+        "151.101.65.164"
+      ],
+      "quad9": [
+        "151.101.1.164",
+        "151.101.129.164",
+        "151.101.193.164",
+        "151.101.65.164"
+      ]
+    },
+    "final_zone": "fastly.net",
+    "chain_length": 3,
+    "third_party": true
+  }
+}
