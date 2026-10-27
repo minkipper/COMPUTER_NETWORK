@@ -1,0 +1,4 @@
+재수렴 감지 (r1 로컬 커널 링크 다운 감지): 2 초
+재수렴 감지 (r2/r3 OSPF Dead Interval 만료 감지): 2 초
+링크 복구 (restore: r1 eth1 up -> Hello/DBD/LSA 재수립): 2 초
+링크 비용 변경 (cost: r1 eth0 cost 10 -> 100 LSA 즉시 플러딩): 708 ms (약 1초 미만)
